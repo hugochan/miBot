@@ -1,0 +1,5 @@
+*.cookie
+*.html
+*.bak
+*.py[co]
+*.sublime*
